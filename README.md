@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Prasad Gopishetty
+- 👀 I’m interested in Microsoft .NET Technologies
+- 🌱 I’m currently learning Microservices with .NET and AWS
+- 💞️ I’m looking to collaborate on .NET Tools
+- 📫 How to reach me at prasadkuce@gmail.com
